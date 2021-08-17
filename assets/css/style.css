@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=roboto:100,200,300,400500, 600,700 | Exo:100,200,300,400,500,600,700">
+
+/*colours ---------------------------******/
+bg-color-name-title{
+    background-color: #676767;
+}
+/*header---------------------------*****/
+
+header{
+    margin:0;
+}
+
+.logo{
+    background: url("../images/portrait_image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all 5s ease-in-out;
+    -moz-transition: all 5s ease-in-out;
+    -webkit-transition: all 5s ease-in-out;
+}
+
+.name{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+}
